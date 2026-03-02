@@ -1,3 +1,4 @@
 label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
 elephant,399,201,1101,720,elephent.jpg,1662,1028
 elephant,267,179,702,424,elephent1.jpg,1024,682
+zebre,267,179,702,424,zebre.jpg,1024,682

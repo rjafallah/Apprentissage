@@ -1,9 +1,0 @@
-youssef : 0
-
-Amine : 1
-
-Abdelhamid : 2
-
-houssam : 3
-
-Yassir : 4
